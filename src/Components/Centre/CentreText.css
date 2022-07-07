@@ -1,5 +1,28 @@
-.centre_text{
+.centre_text_whole{
     position: absolute;
-    font-size: 300px;
-    color: red;
+    left: 15%;
+    top: 15%;
+    display: flex;
+    color: white;
+    padding-left: 5%;
 }
+
+.centre_text_left_part{
+    padding: 5% 5% 5% 2%;
+    margin-top: 15%;
+    font-size: 200%;
+    /* margin-right: 5%; */
+}
+
+.centre_text_left_part b{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 120%;
+}
+
+.centre_text_right_part{
+    border-style: mixed;
+    border: 12px inset white;  
+    padding-left: 2%;
+}
+
+
