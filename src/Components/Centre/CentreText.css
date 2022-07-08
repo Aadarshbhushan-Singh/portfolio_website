@@ -21,8 +21,16 @@
 
 .centre_text_right_part{
     border-style: mixed;
-    border: 12px inset white;  
+    border: 12px outset white;  
     padding-left: 2%;
+}
+
+#explore_more_button{
+    color: #F5435C;
+}
+
+#explore_more_button:hover {
+    color: red;
 }
 
 

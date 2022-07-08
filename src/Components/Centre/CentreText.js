@@ -10,7 +10,7 @@ export const CentreText = () => {
 				<div className="centre_text_left_part">
 					<p>Hello, I'm <b>Aadarshbhushan Singh</b></p>
 					<h4>I am a Computer Engineer</h4>
-					<Link to="/profile">Explore More</Link>
+					<Link to="/profile" id="explore_more_button">Explore More</Link>
 				</div>
 				<div className="centre_text_right_part">
 						<img src={myImage} alt="My Image" />
