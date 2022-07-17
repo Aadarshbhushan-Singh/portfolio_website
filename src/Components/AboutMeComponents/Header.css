@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+.about_me_header {
+  overflow: hidden;
+  background-color: #0e1a57;
+}
+
+
+.about_me_header h2 {
+  color: white;
+  font: 500 15vmin/15vh cookie, cursive;
+  text-align: center;
+  letter-spacing: 2px;
+}

@@ -1,0 +1,18 @@
+.outer_middle_component{
+    background-color: #0e1a57;
+}
+
+.inner_middle_component{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.inner_right_middle_component_about_me{
+    
+}
+
+.inner_right_middle_component_about_me{
+    width: 30%;
+}
+
+
